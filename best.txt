@@ -4,8 +4,6 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-http://nyaa.tracker.wf:7777/announce
-
 http://open.acgnxtracker.com:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -78,6 +76,8 @@ udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
+udp://new-line.net:6969/announce
+
 udp://ns1.monolithindustries.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
@@ -89,6 +89,8 @@ udp://open.demonii.com:1337/announce
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
+
+udp://open.xxtor.com:3074/announce
 
 udp://opentor.org:2710/announce
 
@@ -102,15 +104,11 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://sabross.xyz:6969/announce
 
-udp://tamas3.ynh.fr:6969/announce
-
 udp://thetracker.org:80/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
-
-udp://tracker.cubonegro.lol:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -124,13 +122,17 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
-udp://tracker.hentai.gg:6969/announce
-
 udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.mirrorbay.org:6969/announce
 
+udp://tracker.moeking.me:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.skyts.net:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
 

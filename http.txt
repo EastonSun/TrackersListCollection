@@ -54,9 +54,13 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.ipv6tracker.org:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.nartlof.com.br:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -71,8 +75,6 @@ http://tracker2.itzmx.com:6961/announce
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
-
-http://uraniumhexafluori.de:1919/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -105,8 +107,6 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
-
-https://tracker.netmap.top:8443/announce
 
 https://tracker.renfei.net:443/announce
 
