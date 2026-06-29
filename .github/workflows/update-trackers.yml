@@ -370,8 +370,6 @@ jobs:
       - name: Commit and push when changed
         # 如有修改则提交推送
         shell: bash
-        env:
-          BITBUCKET_TOKEN: ${{ secrets.BITBUCKET_TOKEN }}
         run: |
           set -Eeuo pipefail
 
@@ -392,7 +390,3 @@ jobs:
 
           # 1) 推送到 GitHub（origin）
           git push origin "HEAD:${GITHUB_REF_NAME}"
-
-          # 2) 推送到 Bitbucket（镜像）
-          git remote add bitbucket "https://x-bitbucket-api-token-auth:${BITBUCKET_TOKEN}@bitbucket.org/xiu2/trackerslistcollection.git"
-          git push bitbucket "HEAD:${GITHUB_REF_NAME}"
